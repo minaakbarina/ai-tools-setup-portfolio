@@ -17,25 +17,25 @@ LinkedIn posts were collected manually by reviewing public LinkedIn content and 
 ## LinkedIn Post 1
 
 Date collected: July 7, 2026  
-Post link: https://www.linkedin.com/feed/update/urn:li:activity:7479906100612464640/  
+Post link: https://www.linkedin.com/posts/rosssimmonds_marketers-in-2020-we-need-more-content-activity-7428524688479453184-2x8w
 
 ### Summary
 
-This post shares Foundation Marketing's analysis of more than 8.5K keywords across 130+ SaaS categories and multiple SaaS domains to understand where YouTube appears in Google's top 10 results for B2B marketing queries. The analysis shows that YouTube appears strongly in transactional and navigational search intent, meaning video content is especially relevant when users are comparing, evaluating, or shortlisting solutions.
+This post discusses how content expectations have evolved over time. Ross Simmonds explains that marketers previously focused on producing more content, then better content, then AI-assisted content. The next challenge is producing content that AI cannot easily replicate. The post highlights that the quality bar for content keeps rising as AI makes generic content easier to produce.
 
 ### Key Insight
 
-The key insight is that B2B SaaS SEO should not rely only on written blog content. YouTube can support deeper-funnel search visibility, especially for product comparison, evaluation, and decision-stage queries. For AI-powered SEO content production, this means marketers should create content systems that include articles, video content, transcripts, and repurposed assets to improve visibility across both traditional search and AI-influenced search experiences.
+The key insight is that AI-powered SEO content production should not focus only on speed or volume. B2B SaaS companies need content that includes original perspective, proprietary insight, subject-matter expertise, and practical experience. Content that AI can easily replicate will become less valuable, while content with unique judgment, examples, and expertise will become more important for search visibility and brand differentiation.
 
 ## LinkedIn Post 2
 
 Date collected: July 7, 2026  
-Post link: https://www.linkedin.com/feed/update/urn:li:activity:7477663986386112512/  
+Post link: https://www.linkedin.com/posts/rosssimmonds_how-to-start-a-youtube-channel-for-b2b-dominate-activity-7440396678282678272-OIwn
 
 ### Summary
 
-This post discusses how B2B buying decisions can be influenced by Reddit threads because Reddit content appears in Google search results and can also be cited by AI tools. Ross Simmonds suggests that B2B marketers should search their top buyer-intent keywords together with Reddit, identify which threads rank, track sentiment, objections, and competitor mentions, then add helpful context where the brand can provide evidence.
+This post explains why YouTube should be part of a B2B content and search strategy. Ross Simmonds highlights that YouTube receives massive monthly traffic and is also one of the sources cited by AI search. He points out that many AI search citations come from non-branded educational queries, which makes YouTube important for buyer research and discovery.
 
 ### Key Insight
 
-The key insight is that B2B SaaS SEO is no longer limited to company websites, blogs, and landing pages. Buyer conversations on Reddit can influence search visibility, AI citations, and pipeline quality. For AI-powered SEO content production, marketers should monitor community discussions, understand real customer objections, and create content that responds to those questions with useful and evidence-backed information.
+The key insight is that AI-powered SEO content production should not rely only on written blog articles. B2B SaaS companies should build multi-format content systems that include YouTube videos, transcripts, educational content, and repurposed assets. This improves visibility across traditional search, AI search, and buyer discovery journeys. YouTube can support both top-of-funnel education and deeper buyer research when content is structured around real customer questions.
