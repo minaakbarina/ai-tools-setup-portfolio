@@ -30,12 +30,12 @@ The key insight is that SEO is shifting from traditional ranking-based visibilit
 ## LinkedIn Post / Material 2
 
 Date collected: July 7, 2026  
-Post link: To be added manually  
+Post link: https://www.linkedin.com/feed/update/urn:li:activity:7474857489268711424/ 
 
 ### Summary
 
-To be added after reviewing the selected post or material.
+This post discusses Bernard Huang's concern that AI systems are using publisher content to answer user questions directly while sending little or no traffic back to the original websites. He explains that publishers invest time and money to create useful guides, reviews, news, and other content, but AI crawlers can extract that information and reduce the need for users to click through to the source. The post also highlights the business impact: fewer visitors, less ad revenue, and less financial support for writers and publishers.
 
 ### Key Insight
 
-To be added after reviewing the selected post or material.
+The key insight is that AI-powered SEO content production must consider not only visibility, but also attribution and traffic recovery. If AI systems summarize content without sending users back to the original source, brands need to create content that is distinctive, authoritative, and valuable enough to earn citations, branded searches, and direct visits. This makes first-party data, original insights, brand authority, and clear source attribution more important in the AI search era.
