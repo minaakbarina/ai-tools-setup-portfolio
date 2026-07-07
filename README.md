@@ -1,52 +1,59 @@
-# AI Tools Setup Portfolio
+## Research Project
 
-## Overview
+### Chosen Topic
 
-This repository documents my process of installing and configuring AI-assisted development tools and using GitHub for version control.
+AI-powered SEO content production
 
-## Tools Installed
+### Why I Chose This Topic
 
-### Cursor IDE
+I chose AI-powered SEO content production because it is highly relevant to B2B SaaS growth marketing. This topic combines keyword research, search intent analysis, AI-assisted content workflows, human editorial judgment, content distribution, audience research, and AI search visibility.
 
-I installed Cursor IDE as the primary workspace for this project. I explored its file editor, extensions panel, and source control features.
+AI is changing how people discover information through Google, ChatGPT, AI Overviews, Perplexity, YouTube, Reddit, and other platforms. Because of that, B2B SaaS companies need content that is not only optimized for traditional search engines, but also useful, credible, structured, and citation-worthy for AI-driven discovery.
 
-### Claude Code
+### Research Goal
 
-I installed the official Claude Code extension published by Anthropic and completed the available authentication steps.
+The goal of this research project is to identify high-quality experts who actively discuss AI-powered SEO, AI search visibility, B2B SaaS content strategy, AEO, GEO, zero-click content, content distribution, and modern organic growth.
 
-### Codex
+This research is intended to support a future playbook on how B2B SaaS companies can produce SEO content in the AI search era.
 
-I installed the official Codex extension published by OpenAI and signed in using my ChatGPT account.
+### Experts Researched
 
-### GitHub
+The research includes the following 10 experts:
 
-I created a public GitHub repository to document my progress and demonstrate my ability to use version control.
+1. Aleyda Solis
+2. Ross Simmonds
+3. Bernard Huang
+4. Gaetano DiNardi
+5. Bill Widmer
+6. Sam Dunning
+7. Lily Ray
+8. Andy Crestodina
+9. Amanda Natividad
+10. Kevin Indig
 
-## Steps Completed
+### Why These Experts Were Selected
 
-1. Installed Cursor IDE.
-2. Installed the official Claude Code extension.
-3. Installed the official Codex extension.
-4. Completed the available login processes.
-5. Created a public GitHub repository.
-6. Cloned and opened the repository in Cursor.
-7. Updated the README documentation.
-8. Committed and pushed the changes to GitHub.
+These experts were selected because they are active practitioners in SEO, AI search, B2B SaaS marketing, content strategy, audience research, and organic growth.
 
-## Issues and Solutions
+They were not selected only because they are popular. They were selected because they actively publish practical insights, build tools, lead agencies, advise companies, host webinars, or share frameworks that can support real marketing execution.
 
-### Identifying the Official Extensions
+### What I Collected
 
-Several extensions had similar names. I solved this by checking the publisher and extension ID before installing each extension.
+I collected and organized the following materials:
 
-### Authentication
+- Expert source list with links, dates, and brief annotations
+- LinkedIn post notes organized by author
+- YouTube or video transcript notes organized by expert
+- Additional collection method notes
+- Summaries and key insights for each selected material
 
-Some tools required browser authentication. I followed the authorization instructions in the browser and returned to Cursor after completing the process.
+### Repository Structure
 
-## What I Learned
+The research materials are organized as follows:
 
-This task improved my understanding of AI-assisted development tools, GitHub repositories, version control, and technical documentation. It also strengthened my ability to research unfamiliar tools and complete tasks independently.
-
-## Status
-
-All required setup and documentation steps have been completed.
+```text
+research/
+├── sources.md
+├── linkedin-posts/
+├── youtube-transcripts/
+└── other/
