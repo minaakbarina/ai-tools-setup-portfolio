@@ -16,26 +16,26 @@ LinkedIn posts were collected manually by reviewing public LinkedIn content and 
 
 ## LinkedIn Post 1
 
-Date collected: July 6, 2026  
-Post link: To be added manually  
+Date collected: July 7, 2026  
+Post link: https://www.linkedin.com/feed/update/urn:li:activity:7479906100612464640/  
 
 ### Summary
 
-This post discusses the importance of content distribution in B2B marketing. The main idea is that creating content is not enough; companies need a clear process to distribute, repurpose, and promote content so it reaches the right audience.
+This post shares Foundation Marketing's analysis of more than 8.5K keywords across 130+ SaaS categories and multiple SaaS domains to understand where YouTube appears in Google's top 10 results for B2B marketing queries. The analysis shows that YouTube appears strongly in transactional and navigational search intent, meaning video content is especially relevant when users are comparing, evaluating, or shortlisting solutions.
 
 ### Key Insight
 
-AI-powered SEO content should be supported by a distribution strategy. A strong article can perform better when it is repurposed into LinkedIn posts, email content, social snippets, and other channel-specific formats.
+The key insight is that B2B SaaS SEO should not rely only on written blog content. YouTube can support deeper-funnel search visibility, especially for product comparison, evaluation, and decision-stage queries. For AI-powered SEO content production, this means marketers should create content systems that include articles, video content, transcripts, and repurposed assets to improve visibility across both traditional search and AI-influenced search experiences.
 
 ## LinkedIn Post 2
 
-Date collected: July 6, 2026  
-Post link: To be added manually  
+Date collected: July 7, 2026  
+Post link: https://www.linkedin.com/feed/update/urn:li:activity:7477663986386112512/  
 
 ### Summary
 
-This post highlights how B2B SaaS companies can use content as a growth asset. The key message is that content should be built around customer problems, product education, and long-term search visibility.
+This post discusses how B2B buying decisions can be influenced by Reddit threads because Reddit content appears in Google search results and can also be cited by AI tools. Ross Simmonds suggests that B2B marketers should search their top buyer-intent keywords together with Reddit, identify which threads rank, track sentiment, objections, and competitor mentions, then add helpful context where the brand can provide evidence.
 
 ### Key Insight
 
-For B2B SaaS, AI-assisted content production should focus on customer pain points, not generic keyword content. Content should help users understand the problem, compare solutions, and move closer to a buying decision.
+The key insight is that B2B SaaS SEO is no longer limited to company websites, blogs, and landing pages. Buyer conversations on Reddit can influence search visibility, AI citations, and pipeline quality. For AI-powered SEO content production, marketers should monitor community discussions, understand real customer objections, and create content that responds to those questions with useful and evidence-backed information.
