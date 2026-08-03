@@ -545,7 +545,116 @@ The Monthly Source Ecosystem Review helps the team identify where the brand is m
 
 ## 8. Weaknesses of This Playbook
 
-To be completed.
+This playbook is designed to be practical, but it still has several weaknesses and limitations.
+
+### Weakness 1: AI search is changing quickly
+
+AI search platforms, Google AI Overviews, ChatGPT, Perplexity, Gemini, and other discovery tools are changing rapidly. A tactic that works today may become less effective later.
+
+Because of this, the playbook should not be treated as a fixed document. It should be reviewed and updated regularly based on changes in search behavior, AI citation patterns, platform rules, and buyer behavior.
+
+---
+
+### Weakness 2: The playbook is based on expert research, not direct campaign testing
+
+This playbook is based on research from SEO and content marketing experts, but it has not yet been tested in a live B2B SaaS campaign.
+
+The recommendations are reasonable, but the actual results may depend on many factors, such as:
+
+- website authority
+- brand awareness
+- product category
+- content quality
+- competition level
+- backlink profile
+- sales cycle
+- company resources
+- available SEO tools
+
+Because of this, the playbook should be tested through small experiments before being scaled.
+
+---
+
+### Weakness 3: Measuring AI search impact is still difficult
+
+Traditional SEO can measure traffic, rankings, clicks, and conversions more easily. AI search influence is harder to measure because buyers may see a brand in an AI answer, Reddit thread, YouTube video, LinkedIn post, or review site without clicking immediately.
+
+This creates attribution problems. A content asset may influence trust and purchase decisions, but the analytics dashboard may not show the full impact.
+
+To reduce this weakness, the team should combine several signals, including:
+
+- organic traffic
+- branded search growth
+- AI citation tracking
+- sales team feedback
+- demo requests
+- assisted conversions
+- customer survey responses
+- mentions in discovery calls
+
+---
+
+### Weakness 4: The playbook requires strong human judgment
+
+This playbook does not work well if the team depends only on AI tools. AI can help with research, outlining, drafting, editing, and analysis, but human judgment is still needed.
+
+The team still needs people who understand:
+
+- the product
+- the customer
+- the buyer journey
+- competitive positioning
+- business goals
+- source quality
+- content strategy
+
+Without human review, the content can become generic, inaccurate, or disconnected from real buyer needs.
+
+---
+
+### Weakness 5: Small teams may not have enough resources
+
+Some recommendations require time and resources. For example, building third-party mentions, creating YouTube content, monitoring AI search visibility, updating content regularly, and collecting customer insights may be difficult for a small team.
+
+A small B2B SaaS team may need to prioritize only the highest-impact actions first, such as:
+
+1. improving high-intent product pages
+2. creating comparison and alternative pages
+3. building better content briefs
+4. adding human review to AI content
+5. tracking whether the brand appears in AI search results
+
+The full playbook may be too heavy if the team tries to do everything at once.
+
+---
+
+### Weakness 6: Source quality can vary
+
+Not every expert recommendation should be accepted without judgment. Some advice may be based on a specific industry, company size, tool, audience, or market condition.
+
+This is why the playbook includes sections on disagreement, rejected ideas, and original ideas. The goal is not to copy every expert, but to evaluate which advice is most useful for a B2B SaaS company.
+
+---
+
+### Weakness 7: The playbook may not fit every SaaS category
+
+B2B SaaS companies have different sales cycles, buyer types, product complexity, and market maturity. A playbook that works for an HR software company may not work the same way for cybersecurity, finance, healthcare, developer tools, or enterprise SaaS.
+
+Because of this, each team should adapt the playbook based on:
+
+- customer research
+- product complexity
+- competitive landscape
+- compliance requirements
+- buyer education needs
+- sales cycle length
+- available internal expertise
+
+---
+
+### Final note on weaknesses
+
+The biggest weakness of this playbook is that it is strategic and practical, but not yet validated through real performance data. The best next step would be to test it with a small content sprint, measure the results, and improve the workflow based on evidence.
 
 ## 9. Who I Would NOT Recommend Following and Why
 
