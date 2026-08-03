@@ -890,4 +890,120 @@ Source links:
 
 ## 11. Source List
 
-To be completed.
+### 1. Aleyda Solis
+
+Aleyda Solis was used as a source for AI search optimization, citation worthiness, owned and third-party source diagnosis, and AI-assisted buyer journey visibility.
+
+Source links:
+
+- https://www.linkedin.com/posts/aleyda_ive-just-updated-my-ai-search-optimization-activity-7466150460299857921-664d
+- https://www.linkedin.com/posts/aleyda_ai-search-where-are-we-so-far-and-how-activity-7425156088175689728-lIa-
+- https://www.youtube.com/watch?v=BjyF_4UhoOM
+
+---
+
+### 2. Ross Simmonds
+
+Ross Simmonds was used as a source for content distribution, AI-resistant content, YouTube strategy, Reddit research, and multi-format content systems.
+
+Source links:
+
+- https://www.linkedin.com/posts/rosssimmonds_marketers-in-2020-we-need-more-content-activity-7428524688479453184-2x8w
+- https://www.linkedin.com/posts/rosssimmonds_how-to-start-a-youtube-channel-for-b2b-dominate-activity-7440396678282678272-OIwn
+- https://www.youtube.com/watch?v=1zQ3sVYmbCU
+
+---
+
+### 3. Bernard Huang
+
+Bernard Huang was used as a source for AEO, GEO, AI visibility, and the shift from traditional ranking to AI-driven answer visibility.
+
+Source links:
+
+- https://www.linkedin.com/feed/update/urn:li:activity:7474783891304878081/
+- https://www.linkedin.com/feed/update/urn:li:activity:7474857489268711424/
+- https://www.clearscope.io/webinars/how-aeo-geo-actually-works
+
+---
+
+### 4. Gaetano DiNardi
+
+Gaetano DiNardi was used as a source for SaaS growth, dark funnel behavior, AI-era search discovery, brand visibility, and pipeline-focused measurement.
+
+Source links:
+
+- https://www.linkedin.com/posts/officialg_future-search-for-saas-a-new-era-of-growth-activity-7408865058937753600-ftDn
+- https://www.linkedin.com/posts/officialg_webinar-recap-the-dark-seo-funnel-with-gaetano-activity-7421604299660496896-x4jK
+- https://www.advancedwebranking.com/blog/saas-growth-discovery-in-ai-search-era
+
+---
+
+### 5. Bill Widmer
+
+Bill Widmer was used as a source for AI content context, product knowledge, brand guidelines, internal knowledge bases, and external AI authority signals.
+
+Source links:
+
+- https://www.linkedin.com/posts/billwidmer_seo-ai-saas-activity-7472668084604911616-GW5m
+- https://www.linkedin.com/posts/billwidmer_seo-ai-saas-activity-7467575806567936000-fo2w
+- https://www.youtube.com/watch?v=nwsimn74lXY
+
+---
+
+### 6. Sam Dunning
+
+Sam Dunning was used as a source for SaaS buyer intent, comparison pages, alternative pages, use-case content, pipeline-focused SEO, and avoiding AI search shortcuts.
+
+Source links:
+
+- https://www.linkedin.com/posts/samdunning_if-i-was-a-saas-cmo-wanting-to-crack-ai-search-activity-7411157214385553408-IZQG
+- https://www.linkedin.com/posts/samdunning_yesterday-google-leaked-that-ai-search-activity-7461452124535717888-LN3A
+- https://www.youtube.com/watch?v=yqN3ZO4pvoU
+
+---
+
+### 7. Lily Ray
+
+Lily Ray was used as a source for SEO fundamentals, trust, E-E-A-T, factual accuracy, AI content review, and the connection between traditional SEO visibility and AI search visibility.
+
+Source links:
+
+- https://www.linkedin.com/posts/lily-ray-44755615_the-worst-thing-you-can-do-for-your-ai-search-activity-7467554630458093568-81Xg
+- https://www.linkedin.com/posts/lily-ray-44755615_seo-aioverviews-activity-7353431763068551171-_J_e
+- https://www.youtube.com/watch?v=UDexUcyPC04
+
+---
+
+### 8. Andy Crestodina
+
+Andy Crestodina was used as a source for AI-assisted content workflow, funnel-stage content, content strategy, performance review, and page improvement.
+
+Source links:
+
+- https://www.linkedin.com/posts/andycrestodina_how-and-when-to-use-ai-for-content-strategy-activity-7470795727464759297-8gAB
+- https://www.linkedin.com/posts/andycrestodina_trend-for-2025-whose-job-will-it-be-to-make-activity-7269372309767892992-yhZ2
+- https://www.youtube.com/watch?v=qrn2hOWa4fY
+
+---
+
+### 9. Amanda Natividad
+
+Amanda Natividad was used as a source for audience research, zero-click content, audience language, non-generic marketing, and content discovery without immediate clicks.
+
+Source links:
+
+- https://www.linkedin.com/posts/amandanat_every-marketer-wants-to-know-whats-my-audience-activity-7441868964948967424-GMZW
+- https://www.linkedin.com/posts/amandanat_best-practices-are-the-beige-of-marketing-activity-7432114156843212800-IRVM
+- https://microconf.com/on-air-episodes/microconf-refresh-the-new-way-of-marketing-mastery-of-zero-click-content-with-amanda-natividad
+
+---
+
+### 10. Kevin Indig
+
+Kevin Indig was used as a source for brand/entity visibility, backlinks, authority, AI search mentions, and the shift from keyword rankings to AI-driven brand understanding.
+
+Source links:
+
+- https://www.linkedin.com/posts/kevinindig_in-seo-we-obsess-over-where-we-rank-but-activity-7423732576139476992-sx3r
+- https://www.linkedin.com/posts/kevinindig_backlinks-still-matter-in-ai-search-just-activity-7378865408218394624-JiPA
+- https://www.youtube.com/watch?v=AqAoKGftsSE
