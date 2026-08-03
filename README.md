@@ -1,3 +1,24 @@
+# AI Tools Setup Portfolio
+
+## Playbook / SOP Submission
+
+The final Playbook / SOP for this stage is available here:
+
+[AI-Powered SEO Content Production Playbook for B2B SaaS](playbook/ai-powered-seo-content-production-playbook.md)
+
+This playbook includes:
+
+- step-by-step SOP recommendations
+- source-backed recommendations
+- expert disagreement analysis
+- rejected ideas and reasoning
+- original ideas
+- playbook weaknesses
+- recommendation limits for selected experts
+- final recommendation
+- complete source list
+
+---
 ## Research Project
 
 ### Chosen Topic
