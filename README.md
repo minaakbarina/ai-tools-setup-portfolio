@@ -70,9 +70,12 @@ I collected and organized the following materials:
 
 ### Repository Structure
 
-The research materials are organized as follows:
+The research materials and playbook are organized as follows:
 
 ```text
+playbook/
+└── ai-powered-seo-content-production-playbook.md
+
 research/
 ├── sources.md
 ├── linkedin-posts/
