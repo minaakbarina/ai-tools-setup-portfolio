@@ -457,7 +457,91 @@ AI search optimization should be built on top of strong SEO fundamentals, not tr
 
 ## 7. My Original Ideas
 
-To be completed.
+### Original Idea 1: AI Content Quality Gate
+
+One original idea I would add to this playbook is an **AI Content Quality Gate**.
+
+Before any AI-assisted SEO content is published, it should pass a simple quality checklist. This checklist should verify whether the content has a clear buyer intent, accurate sources, human review, product context, original insight, and a clear business goal.
+
+Many teams use AI to create drafts faster, but speed alone does not guarantee quality. A quality gate helps prevent generic AI content from being published without enough context, evidence, or editorial judgment.
+
+**Recommended checklist:**
+
+1. Does the content answer a real buyer question?
+2. Is the search intent clear?
+3. Does the content include product or business context?
+4. Are factual claims checked?
+5. Are sources included where needed?
+6. Does the content include original insight or examples?
+7. Has a human reviewed the final draft?
+8. Does the content support a business goal such as awareness, evaluation, conversion, or retention?
+
+This idea is original because it turns the expert insights into a practical internal review system. Instead of treating AI as a content shortcut, the quality gate makes AI part of a controlled content production workflow.
+
+---
+
+### Original Idea 2: Prompt-to-Pipeline Matrix
+
+A second original idea is a **Prompt-to-Pipeline Matrix**.
+
+The purpose of this matrix is to connect AI search prompts, SEO topics, content formats, funnel stages, and business outcomes. This helps B2B SaaS teams avoid creating content only for traffic and instead create content that can support pipeline.
+
+**Example structure:**
+
+| AI Search Prompt / Query                     | Content Type             | Funnel Stage  | Business Goal                    |
+| -------------------------------------------- | ------------------------ | ------------- | -------------------------------- |
+| best ATS for startups                        | comparison page          | decision      | demo request                     |
+| how to reduce hiring time                    | educational article      | awareness     | lead capture                     |
+| 100Hires alternatives                        | alternative page         | evaluation    | conversion                       |
+| applicant tracking system for small business | product-led landing page | consideration | qualified signup                 |
+| how to improve recruitment workflow          | how-to guide             | awareness     | newsletter signup or demo assist |
+
+This idea is original because it connects AI-powered SEO content production directly to business value. It also helps marketers decide which content should be prioritized first.
+
+Instead of asking, “What keywords should we target?”, the team should ask:
+
+* What AI prompts or buyer questions matter?
+* What content format best answers the question?
+* Where is the buyer in the journey?
+* What business outcome should this content support?
+
+This approach makes the content strategy more practical for B2B SaaS growth.
+
+---
+
+### Original Idea 3: Monthly Source Ecosystem Review
+
+A third original idea is a **Monthly Source Ecosystem Review**.
+
+In traditional SEO, teams often review rankings and traffic. In AI-powered SEO, teams should also review where AI systems and discovery platforms are getting their information from.
+
+Once per month, the marketing team should check whether the brand appears correctly across:
+
+* Google search results
+* Google AI Overviews
+* ChatGPT
+* Perplexity
+* Gemini
+* YouTube
+* Reddit
+* review sites
+* comparison articles
+* third-party blogs
+* LinkedIn discussions
+
+The team should ask:
+
+1. Is the brand visible?
+2. Is the brand accurately described?
+3. Are competitors mentioned more often?
+4. Which sources are being cited?
+5. Is the product positioning clear?
+6. Are there missing comparison, alternative, or use-case pages?
+7. Are there third-party sources that need to be improved or influenced?
+
+This idea is original because it treats AI-powered SEO as an ecosystem, not just a website optimization task. A company may publish strong content on its own website, but AI tools may still rely on third-party sources, review pages, community discussions, and external mentions.
+
+The Monthly Source Ecosystem Review helps the team identify where the brand is missing, misrepresented, or not trusted enough. Then the team can improve owned content, create better product pages, build third-party mentions, and update content based on what AI systems and buyers are actually seeing.
 
 ## 8. Weaknesses of This Playbook
 
