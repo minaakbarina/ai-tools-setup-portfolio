@@ -388,7 +388,72 @@ I would use AI to improve workflow speed, but not to mass-produce generic articl
 
 ## 6. What I Rejected and Why
 
-To be completed.
+### Rejected Idea 1: Using AI mainly to publish more content faster
+
+**Idea rejected:**  
+Using AI primarily as a way to increase content volume and publish many articles quickly.
+
+**Source behind the idea:**  
+Andy Crestodina shows that AI can support many stages of the content workflow, including topic discovery, outlining, drafting, page analysis, and performance review.  
+Source link: https://www.youtube.com/watch?v=qrn2hOWa4fY
+
+**Why I rejected it as a main strategy:**  
+I rejected this as the main strategy because faster production does not automatically create better content. In B2B SaaS, generic AI-generated articles can dilute brand trust, fail to answer buyer questions, and become easy for competitors to copy.
+
+Ross Simmonds argues that marketers need to create content that AI cannot easily replicate. Bill Widmer also emphasizes that AI output becomes weak when it lacks business context, product knowledge, customer insight, and brand-specific information.  
+Source: Ross Simmonds  
+Source link: https://www.linkedin.com/posts/rosssimmonds_marketers-in-2020-we-need-more-content-activity-7428524688479453184-2x8w  
+Source: Bill Widmer  
+Source link: https://www.linkedin.com/posts/billwidmer_seo-ai-saas-activity-7467575806567936000-fo2w
+
+**Decision:**  
+AI should be used to improve research, structure, drafting, editing, and analysis. It should not be used as a shortcut to mass-produce generic articles.
+
+---
+
+### Rejected Idea 2: Measuring SEO success mainly by traffic
+
+**Idea rejected:**  
+Using organic traffic as the main measure of success for AI-powered SEO content.
+
+**Source behind the idea:**  
+Traditional SEO still uses traffic, rankings, and search visibility as important performance indicators. Lily Ray also warns that damaging traditional SEO visibility can hurt AI search visibility.  
+Source link: https://www.linkedin.com/posts/lily-ray-44755615_the-worst-thing-you-can-do-for-your-ai-search-activity-7467554630458093568-81Xg
+
+**Why I rejected it as the main metric:**  
+I rejected traffic as the main metric because AI search and zero-click behavior can influence buyers without sending direct visits to the website. A buyer may see a brand in ChatGPT, Perplexity, Google AI Overviews, Reddit, YouTube, or LinkedIn before visiting the website later through another channel.
+
+Gaetano DiNardi argues that AI-era SEO should measure visibility, brand discovery, and high-intent conversions, not only traffic. Amanda Natividad also explains that zero-click content can create awareness and trust even when users do not immediately click.  
+Source: Gaetano DiNardi  
+Source link: https://www.advancedwebranking.com/blog/saas-growth-discovery-in-ai-search-era  
+Source: Amanda Natividad  
+Source link: https://microconf.com/on-air-episodes/microconf-refresh-the-new-way-of-marketing-mastery-of-zero-click-content-with-amanda-natividad
+
+**Decision:**  
+Traffic should still be tracked, but it should not be the only success metric. The playbook also measures AI citations, brand mentions, assisted conversions, demo requests, sales conversations, and pipeline influence.
+
+---
+
+### Rejected Idea 3: Treating AI search optimization as a separate shortcut from SEO
+
+**Idea rejected:**  
+Treating AEO, GEO, or AI search optimization as a separate shortcut that can replace strong SEO fundamentals.
+
+**Source behind the idea:**  
+Some AI search discussions focus heavily on new tactics such as prompt visibility, citation tracking, and AI answer monitoring. Aleyda Solis recommends checking where the brand is visible, cited, recommended, or missing in AI-assisted journeys.  
+Source link: https://www.linkedin.com/posts/aleyda_ive-just-updated-my-ai-search-optimization-activity-7466150460299857921-664d
+
+**Why I rejected it as a standalone approach:**  
+I rejected this as a standalone approach because AI visibility still depends on strong content quality, credibility, structure, and authority. If a website has weak content, unclear positioning, poor expertise signals, or low trust, AI search tactics alone will not fix the problem.
+
+Lily Ray and Sam Dunning both emphasize that strong SEO fundamentals still matter in the AI search era.  
+Source: Lily Ray  
+Source link: https://www.linkedin.com/posts/lily-ray-44755615_the-worst-thing-you-can-do-for-your-ai-search-activity-7467554630458093568-81Xg  
+Source: Sam Dunning  
+Source link: https://www.linkedin.com/posts/samdunning_yesterday-google-leaked-that-ai-search-activity-7461452124535717888-LN3A
+
+**Decision:**  
+AI search optimization should be built on top of strong SEO fundamentals, not treated as a replacement for them.
 
 ## 7. My Original Ideas
 
