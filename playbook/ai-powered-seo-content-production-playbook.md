@@ -310,7 +310,83 @@ Source link: https://www.linkedin.com/posts/andycrestodina_how-and-when-to-use-a
 
 ## 5. Where Experts Disagree
 
-To be completed.
+## 5. Where Experts Disagree
+
+### Disagreement 1: Should AI SEO focus more on owned content or external authority?
+
+**Side A: Focus on owned content quality and structure**  
+Aleyda Solis emphasizes that AI search optimization should improve content structure, citation worthiness, topical depth, accessibility, and retrievability. This approach suggests that companies should first make their own content easier for AI systems to understand, extract, and cite.  
+Source: Aleyda Solis, AI Search Optimization Roadmap  
+Source link: https://www.youtube.com/watch?v=BjyF_4UhoOM
+
+**Side B: Focus on distributed authority and external signals**  
+Kevin Indig and Bill Widmer emphasize that AI search visibility is not shaped only by owned website content. External authority signals such as backlinks, reviews, PR, third-party mentions, comparison pages, and trusted references can influence how AI systems mention or recommend a brand.  
+Source: Kevin Indig, backlinks and authority in AI search  
+Source link: https://www.linkedin.com/posts/kevinindig_backlinks-still-matter-in-ai-search-just-activity-7378865408218394624-JiPA  
+Source: Bill Widmer, AI search authority signals  
+Source link: https://www.linkedin.com/posts/billwidmer_seo-ai-saas-activity-7472668084604911616-GW5m
+
+**My decision:**  
+I would take both sides, but in sequence. First, fix owned content so it is clear, structured, accurate, and citation-worthy. Then build external authority signals around the most important product, category, and comparison topics. Owned content without authority may not be trusted. External mentions without strong owned content may create inconsistent brand understanding.
+
+---
+
+### Disagreement 2: Should teams prioritize traffic or pipeline influence?
+
+**Side A: Traditional SEO still needs traffic and rankings**  
+Lily Ray warns that damaging traditional SEO visibility can also damage AI search visibility. This means organic rankings, helpful content, technical SEO, and long-term SEO health still matter.  
+Source: Lily Ray, traditional SEO and AI visibility  
+Source link: https://www.linkedin.com/posts/lily-ray-44755615_the-worst-thing-you-can-do-for-your-ai-search-activity-7467554630458093568-81Xg
+
+**Side B: AI-era SEO should measure pipeline, brand discovery, and buyer influence**  
+Gaetano DiNardi and Sam Dunning emphasize that B2B SaaS SEO should not be judged only by traffic. AI search, dark funnel behavior, brand mentions, assisted conversions, and high-intent discovery can influence pipeline even when direct attribution is unclear.  
+Source: Gaetano DiNardi, SaaS growth and AI search era  
+Source link: https://www.advancedwebranking.com/blog/saas-growth-discovery-in-ai-search-era  
+Source: Sam Dunning, AI search for SaaS CMOs  
+Source link: https://www.linkedin.com/posts/samdunning_if-i-was-a-saas-cmo-wanting-to-crack-ai-search-activity-7411157214385553408-IZQG
+
+**My decision:**  
+I would not replace traffic measurement, but I would expand it. Traffic and rankings are still useful early indicators, but B2B SaaS teams should also measure AI citations, branded search growth, sales mentions, demo requests, assisted conversions, and pipeline influence. Traffic alone is too narrow for AI-powered SEO.
+
+---
+
+### Disagreement 3: Should content be optimized mainly for Google or for multi-platform discovery?
+
+**Side A: Strong SEO fundamentals remain the foundation**  
+Lily Ray and Sam Dunning both suggest that traditional SEO fundamentals still matter. Helpful content, accuracy, user-first writing, structure, and trust are still necessary even in AI search.  
+Source: Lily Ray, SEO and AI search visibility  
+Source link: https://www.linkedin.com/posts/lily-ray-44755615_the-worst-thing-you-can-do-for-your-ai-search-activity-7467554630458093568-81Xg  
+Source: Sam Dunning, Google guidance and AI search  
+Source link: https://www.linkedin.com/posts/samdunning_yesterday-google-leaked-that-ai-search-activity-7461452124535717888-LN3A
+
+**Side B: Discovery now happens across YouTube, Reddit, LinkedIn, AI tools, and communities**  
+Ross Simmonds and Amanda Natividad emphasize that content discovery is no longer limited to Google search. YouTube, Reddit, zero-click content, LinkedIn, and community conversations can influence awareness, trust, and AI-generated answers.  
+Source: Ross Simmonds, YouTube for B2B and AI search visibility  
+Source link: https://www.linkedin.com/posts/rosssimmonds_how-to-start-a-youtube-channel-for-b2b-dominate-activity-7440396678282678272-OIwn  
+Source: Amanda Natividad, zero-click content and audience behavior  
+Source link: https://microconf.com/on-air-episodes/microconf-refresh-the-new-way-of-marketing-mastery-of-zero-click-content-with-amanda-natividad
+
+**My decision:**  
+I would keep Google SEO fundamentals as the base, but I would not build a Google-only content system. A B2B SaaS company should create one strong source asset, then repurpose it into YouTube, LinkedIn, newsletters, community answers, and AI-friendly summaries. This makes the content more discoverable across the full buyer journey.
+
+---
+
+### Disagreement 4: Should companies use AI to scale content volume or improve content strategy?
+
+**Side A: AI can increase content production efficiency**  
+Andy Crestodina shows that AI can help across many funnel stages, including topic discovery, outlining, drafting, page gap analysis, and performance review. This supports using AI to make the content workflow faster and more efficient.  
+Source: Andy Crestodina, AI for every funnel stage  
+Source link: https://www.youtube.com/watch?v=qrn2hOWa4fY
+
+**Side B: More AI-generated content can become generic and easy to ignore**  
+Ross Simmonds argues that the next challenge is creating content that AI cannot easily replicate. Bill Widmer also argues that AI content becomes weak when it lacks business context, product knowledge, and customer insight.  
+Source: Ross Simmonds, AI-proof content  
+Source link: https://www.linkedin.com/posts/rosssimmonds_marketers-in-2020-we-need-more-content-activity-7428524688479453184-2x8w  
+Source: Bill Widmer, AI content context problem  
+Source link: https://www.linkedin.com/posts/billwidmer_seo-ai-saas-activity-7467575806567936000-fo2w
+
+**My decision:**  
+I would use AI to improve workflow speed, but not to mass-produce generic articles. The best use of AI is to accelerate research, structure, drafting, editing, and analysis while humans add product context, original insight, customer evidence, and judgment.
 
 ## 6. What I Rejected and Why
 
