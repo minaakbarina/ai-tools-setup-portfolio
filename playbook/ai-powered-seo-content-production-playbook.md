@@ -658,7 +658,74 @@ The biggest weakness of this playbook is that it is strategic and practical, but
 
 ## 9. Who I Would NOT Recommend Following and Why
 
-To be completed.
+This section is not a criticism of the experts below. All of them provide valuable insights. My point is that I would not recommend using any of them as the only or primary source for every B2B SaaS company.
+
+In this playbook, "not recommend following" means "not recommend following as a standalone strategy without context."
+
+### 1. Amanda Natividad — useful for audience strategy, but not enough as a full SEO execution guide
+
+Amanda Natividad is valuable for understanding audience behavior, zero-click content, and how people discover information without always clicking to a website.
+
+However, I would not use her work as the primary guide for teams that need detailed technical SEO execution, on-page optimization, site architecture, or AI search citation monitoring.
+
+Her advice is strongest for audience research, content positioning, and distribution. For a complete AI-powered SEO playbook, her ideas should be combined with more SEO-specific experts such as Aleyda Solis, Lily Ray, Kevin Indig, and Sam Dunning.
+
+**Why:**  
+Her work is very useful for audience and zero-click strategy, but it is not enough by itself for a full technical SEO or AI search execution workflow.
+
+Source link: https://microconf.com/on-air-episodes/microconf-refresh-the-new-way-of-marketing-mastery-of-zero-click-content-with-amanda-natividad
+
+---
+
+### 2. Ross Simmonds — strong for distribution, but may be difficult for very small teams
+
+Ross Simmonds is one of the strongest sources for content distribution, repurposing, Reddit, YouTube, and creating content that AI cannot easily replicate.
+
+However, I would not recommend applying his full approach immediately if a company has a very small team, limited time, no video capability, no community management capacity, and no clear distribution process.
+
+His strategy can be powerful, but it requires consistent execution across multiple channels. A small B2B SaaS team may struggle if it tries to publish blog content, YouTube content, LinkedIn content, Reddit-informed content, and community content all at once.
+
+**Why:**  
+His approach is excellent for distribution-heavy teams, but smaller teams should apply it selectively and gradually instead of copying the full model immediately.
+
+Source link: https://www.linkedin.com/posts/rosssimmonds_how-to-start-a-youtube-channel-for-b2b-dominate-activity-7440396678282678272-OIwn
+
+---
+
+### 3. Bernard Huang — valuable for AI search visibility, but may be advanced for beginners
+
+Bernard Huang is useful for understanding AI visibility, AEO, GEO, and how search is moving toward answer engines and AI-driven information retrieval.
+
+However, I would not use him as the first source for beginners who still need to understand basic SEO, content planning, buyer intent, content briefs, and editorial quality control.
+
+His ideas are more useful after a team already understands SEO fundamentals and wants to improve AI search visibility.
+
+**Why:**  
+His ideas are valuable but more advanced. Beginners may need a simpler SEO and content foundation before applying AEO or GEO concepts.
+
+Source link: https://www.clearscope.io/webinars/how-aeo-geo-actually-works
+
+---
+
+### 4. Any single expert — not recommended as the only source
+
+The biggest recommendation I would avoid is following only one expert completely.
+
+AI-powered SEO content production is too broad to be solved by one perspective. A strong playbook needs multiple viewpoints:
+
+- Aleyda Solis for AI search optimization and citation readiness
+- Lily Ray for SEO fundamentals, trust, and E-E-A-T
+- Sam Dunning for SaaS buyer intent and pipeline-focused SEO
+- Bill Widmer for product context and AI content quality
+- Kevin Indig for authority, backlinks, and brand/entity visibility
+- Ross Simmonds for distribution and community-informed content
+- Amanda Natividad for audience research and zero-click content
+- Andy Crestodina for AI-assisted workflow and funnel strategy
+- Gaetano DiNardi for dark funnel and SaaS growth measurement
+- Bernard Huang for AEO, GEO, and AI search visibility
+
+**Final judgment:**  
+I would not recommend copying one expert completely. The best approach is to combine expert insights, test them in a real SaaS context, and adjust based on evidence.
 
 ## 10. Final Recommendation
 
