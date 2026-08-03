@@ -310,8 +310,6 @@ Source link: https://www.linkedin.com/posts/andycrestodina_how-and-when-to-use-a
 
 ## 5. Where Experts Disagree
 
-## 5. Where Experts Disagree
-
 ### Disagreement 1: Should AI SEO focus more on owned content or external authority?
 
 **Side A: Focus on owned content quality and structure**  
